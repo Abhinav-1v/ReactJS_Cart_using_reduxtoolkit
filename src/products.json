@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "productName": "Smartphone Case",
+    "image": "http://dummyimage.com/112x100.png/5fa2dd/ffffff",
+    "price": 229
+  },
+  {
+    "id": 2,
+    "productName": "Wireless Headphones",
+    "image": "http://dummyimage.com/126x100.png/5fa2dd/ffffff",
+    "price": 199
+  },
+  {
+    "id": 3,
+    "productName": "Portable Charger",
+    "image": "http://dummyimage.com/221x100.png/5fa2dd/ffffff",
+    "price": 296
+  },
+  {
+    "id": 4,
+    "productName": "Laptop Stand",
+    "image": "http://dummyimage.com/204x100.png/dddddd/000000",
+    "price": 197
+  },
+  {
+    "id": 5,
+    "productName": "Bluetooth Speaker",
+    "image": "http://dummyimage.com/157x100.png/5fa2dd/ffffff",
+    "price": 195
+  },
+  {
+    "id": 6,
+    "productName": "Smartwatch Band",
+    "image": "http://dummyimage.com/124x100.png/5fa2dd/ffffff",
+    "price": 180
+  },
+  {
+    "id": 7,
+    "productName": "Desk Organizer",
+    "image": "http://dummyimage.com/100x100.png/dddddd/000000",
+    "price": 341
+  },
+  {
+    "id": 8,
+    "productName": "Water Bottle",
+    "image": "http://dummyimage.com/128x100.png/ff4444/ffffff",
+    "price": 283
+  },
+  {
+    "id": 9,
+    "productName": "LED Lamp",
+    "image": "http://dummyimage.com/120x100.png/5fa2dd/ffffff",
+    "price": 193
+  },
+  {
+    "id": 10,
+    "productName": "Notebook",
+    "image": "http://dummyimage.com/156x100.png/5fa2dd/ffffff",
+    "price": 166
+  },
+  {
+    "id": 11,
+    "productName": "Pen Set",
+    "image": "http://dummyimage.com/116x100.png/ff4444/ffffff",
+    "price": 157
+  },
+  {
+    "id": 12,
+    "productName": "Mouse Pad",
+    "image": "http://dummyimage.com/207x100.png/dddddd/000000",
+    "price": 297
+  },
+  {
+    "id": 13,
+    "productName": "USB Cable",
+    "image": "http://dummyimage.com/168x100.png/cc0000/ffffff",
+    "price": 232
+  },
+  {
+    "id": 14,
+    "productName": "Backpack",
+    "image": "http://dummyimage.com/137x100.png/cc0000/ffffff",
+    "price": 164
+  },
+  {
+    "id": 15,
+    "productName": "Fitness Tracker",
+    "image": "http://dummyimage.com/140x100.png/ff4444/ffffff",
+    "price": 218
+  },
+  {
+    "id": 16,
+    "productName": "Keychain",
+    "image": "http://dummyimage.com/250x100.png/dddddd/000000",
+    "price": 252
+  },
+  {
+    "id": 17,
+    "productName": "Desk Calendar",
+    "image": "http://dummyimage.com/226x100.png/cc0000/ffffff",
+    "price": 219
+  },
+  {
+    "id": 18,
+    "productName": "Photo Frame",
+    "image": "http://dummyimage.com/210x100.png/ff4444/ffffff",
+    "price": 313
+  },
+  {
+    "id": 19,
+    "productName": "Office Chair",
+    "image": "http://dummyimage.com/144x100.png/dddddd/000000",
+    "price": 254
+  },
+  {
+    "id": 20,
+    "productName": "Wireless Keyboard",
+    "image": "http://dummyimage.com/249x100.png/dddddd/000000",
+    "price": 248
+  },
+  {
+    "id": 21,
+    "productName": "Monitor Stand",
+    "image": "http://dummyimage.com/159x100.png/cc0000/ffffff",
+    "price": 241
+  },
+  {
+    "id": 22,
+    "productName": "Tablet Cover",
+    "image": "http://dummyimage.com/121x100.png/cc0000/ffffff",
+    "price": 320
+  },
+  {
+    "id": 23,
+    "productName": "Smart Plug",
+    "image": "http://dummyimage.com/111x100.png/5fa2dd/ffffff",
+    "price": 255
+  },
+  {
+    "id": 24,
+    "productName": "Power Strip",
+    "image": "http://dummyimage.com/238x100.png/5fa2dd/ffffff",
+    "price": 160
+  },
+  {
+    "id": 25,
+    "productName": "Cable Organizer",
+    "image": "http://dummyimage.com/188x100.png/dddddd/000000",
+    "price": 152
+  },
+  {
+    "id": 26,
+    "productName": "Screen Cleaner",
+    "image": "http://dummyimage.com/180x100.png/ff4444/ffffff",
+    "price": 174
+  },
+  {
+    "id": 27,
+    "productName": "Wireless Mouse",
+    "image": "http://dummyimage.com/246x100.png/5fa2dd/ffffff",
+    "price": 282
+  },
+  {
+    "id": 28,
+    "productName": "Laptop Sleeve",
+    "image": "http://dummyimage.com/119x100.png/cc0000/ffffff",
+    "price": 173
+  },
+  {
+    "id": 29,
+    "productName": "Portable Fan",
+    "image": "http://dummyimage.com/142x100.png/dddddd/000000",
+    "price": 293
+  },
+  {
+    "id": 30,
+    "productName": "Notebook Cooler",
+    "image": "http://dummyimage.com/208x100.png/dddddd/000000",
+    "price": 288
+  },
+  {
+    "id": 31,
+    "productName": "Noise-Cancelling Headphones",
+    "image": "http://dummyimage.com/208x100.png/ff4444/ffffff",
+    "price": 215
+  },
+  {
+    "id": 32,
+    "productName": "Charging Dock",
+    "image": "http://dummyimage.com/116x100.png/5fa2dd/ffffff",
+    "price": 261
+  },
+  {
+    "id": 33,
+    "productName": "Desk Lamp",
+    "image": "http://dummyimage.com/136x100.png/dddddd/000000",
+    "price": 177
+  },
+  {
+    "id": 34,
+    "productName": "Action Camera",
+    "image": "http://dummyimage.com/196x100.png/cc0000/ffffff",
+    "price": 328
+  },
+  {
+    "id": 35,
+    "productName": "Photo Printer",
+    "image": "http://dummyimage.com/145x100.png/cc0000/ffffff",
+    "price": 327
+  },
+  {
+    "id": 36,
+    "productName": "Smart Thermostat",
+    "image": "http://dummyimage.com/179x100.png/5fa2dd/ffffff",
+    "price": 231
+  },
+  {
+    "id": 37,
+    "productName": "Portable Projector",
+    "image": "http://dummyimage.com/208x100.png/cc0000/ffffff",
+    "price": 330
+  },
+  {
+    "id": 38,
+    "productName": "Bluetooth Tracker",
+    "image": "http://dummyimage.com/117x100.png/dddddd/000000",
+    "price": 239
+  },
+  {
+    "id": 39,
+    "productName": "VR Headset",
+    "image": "http://dummyimage.com/175x100.png/5fa2dd/ffffff",
+    "price": 339
+  },
+  {
+    "id": 40,
+    "productName": "Gaming Controller",
+    "image": "http://dummyimage.com/148x100.png/dddddd/000000",
+    "price": 237
+  },
+  {
+    "id": 41,
+    "productName": "External Hard Drive",
+    "image": "http://dummyimage.com/182x100.png/ff4444/ffffff",
+    "price": 178
+  },
+  {
+    "id": 42,
+    "productName": "Flash Drive",
+    "image": "http://dummyimage.com/238x100.png/cc0000/ffffff",
+    "price": 176
+  },
+  {
+    "id": 43,
+    "productName": "Phone Stand",
+    "image": "http://dummyimage.com/180x100.png/cc0000/ffffff",
+    "price": 304
+  },
+  {
+    "id": 44,
+    "productName": "Smart Light Bulb",
+    "image": "http://dummyimage.com/205x100.png/5fa2dd/ffffff",
+    "price": 246
+  },
+  {
+    "id": 45,
+    "productName": "USB Hub",
+    "image": "http://dummyimage.com/231x100.png/dddddd/000000",
+    "price": 255
+  },
+  {
+    "id": 46,
+    "productName": "Screen Protector",
+    "image": "http://dummyimage.com/128x100.png/5fa2dd/ffffff",
+    "price": 156
+  },
+  {
+    "id": 47,
+    "productName": "Desk Mat",
+    "image": "http://dummyimage.com/136x100.png/5fa2dd/ffffff",
+    "price": 163
+  },
+  {
+    "id": 48,
+    "productName": "Cable Splitter",
+    "image": "http://dummyimage.com/180x100.png/5fa2dd/ffffff",
+    "price": 239
+  },
+  {
+    "id": 49,
+    "productName": "Wi-Fi Range Extender",
+    "image": "http://dummyimage.com/200x100.png/cc0000/ffffff",
+    "price": 173
+  },
+  {
+    "id": 50,
+    "productName": "Desk Shelf",
+    "image": "http://dummyimage.com/173x100.png/dddddd/000000",
+    "price": 314
+  }
+]
